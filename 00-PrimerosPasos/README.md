@@ -35,4 +35,3 @@ Link al repositorio de github: [repo](https://github.com/atralice/Curso.Prep.Hen
 <iframe src="https://player.vimeo.com/video/548902078" width="640" height="365" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 > Gracias [Nico Constantin (FT#12)](https://github.com/NicoConstantin) por el video y la explicación!
-
